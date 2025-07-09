@@ -376,6 +376,6 @@ print("Raw result:", raw_result)
 
 **⭐ 이 프로젝트가 도움이 되셨다면 별표를 눌러주세요! ⭐**
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Your Name](https://github.com/HunHee-Joung)
 
 </div>
