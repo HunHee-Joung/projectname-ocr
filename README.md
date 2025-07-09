@@ -358,10 +358,18 @@ print("Raw result:", raw_result)
 - [PIL/Pillow](https://pillow.readthedocs.io/) 이미지 처리 라이브러리
 - 모든 기여자와 사용자들
 
+## ✅ 결과
+
+- **추출 전**  
+  ![Before OCR](./img/sample.jpg)
+
+- **추출 후**  
+  ![After OCR](./img/ocr_output_visual.jpg)
+
+
 ## 📄 라이선스
 
 이 프로젝트는 [MIT License](LICENSE) 하에 배포됩니다. 자세한 내용은 `LICENSE` 파일을 참조하세요.
-
 ---
 
 <div align="center">
